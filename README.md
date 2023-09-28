@@ -8,6 +8,6 @@ Efecto acordeon (practica)
 
 **TODO**
 
-- [] Función fade
-- [] Animation
-- [] ease - ease-in
+- [ ] Función fade
+- [ ] Animation
+- [ ] ease - ease-in
